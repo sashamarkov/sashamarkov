@@ -4,8 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sashamarkov&label=Profile%20views&color=0e75b6&style=flat" alt="sashamarkov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sashamarkov" alt="sashamarkov" /></a> </p>
-<h3 align="left">Coding challenges and sertificates</h3>
+<h3 align="left">Coding challenges and sertificates:</h3>
+<!-- codewars -->
+<a target="_blank" href="https://www.codewars.com/users/Sasha%20Markov"><img src="https://www.codewars.com/users/Sasha%20Markov/badges/large" alt="Codewars Stats"></a>
+
 <img src="https://www.codewars.com/users/Sasha%20Markov/badges/large">
+<!-- sql-ex.ru csbtn -->
+<a target="_blank" href="http://www.sql-ex.ru/certification/confirm.php?cert_id=A13134761"><img src="http://www.sql-ex.ru/certification/csbtn.php?cert_id=A13134761" alt="SQL DML Certified Professional" border="0" width="88" height="31"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
