@@ -8,7 +8,6 @@
 <!-- codewars -->
 <a target="_blank" href="https://www.codewars.com/users/Sasha%20Markov"><img src="https://www.codewars.com/users/Sasha%20Markov/badges/large" alt="Codewars Stats"></a>
 
-<img src="https://www.codewars.com/users/Sasha%20Markov/badges/large">
 <!-- sql-ex.ru csbtn -->
 <a target="_blank" href="http://www.sql-ex.ru/certification/confirm.php?cert_id=A13134761"><img src="http://www.sql-ex.ru/certification/csbtn.php?cert_id=A13134761" alt="SQL DML Certified Professional" border="0" width="88" height="31"></a>
 <h3 align="left">Connect with me:</h3>
